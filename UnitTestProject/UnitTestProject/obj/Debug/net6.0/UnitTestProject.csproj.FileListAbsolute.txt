@@ -74,3 +74,4 @@ D:\UnitTest\UnitTestProject\UnitTestProject\obj\Debug\net6.0\refint\UnitTestProj
 D:\UnitTest\UnitTestProject\UnitTestProject\obj\Debug\net6.0\UnitTestProject.pdb
 D:\UnitTest\UnitTestProject\UnitTestProject\obj\Debug\net6.0\UnitTestProject.genruntimeconfig.cache
 D:\UnitTest\UnitTestProject\UnitTestProject\obj\Debug\net6.0\ref\UnitTestProject.dll
+D:\UnitTest\UnitTestProject\UnitTestProject\obj\Debug\net6.0\UnitTestProject.sourcelink.json

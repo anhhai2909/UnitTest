@@ -22,21 +22,18 @@ namespace UnitTestProject.Models
         {
             var config = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();
             optionsBuilder.UseSqlServer(config.GetConnectionString("MyCnn"));
-
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<User>(entity =>
             {
-                entity.HasNoKey();
+                entity.Property(e => e.Id).HasColumnName("id");
 
                 entity.Property(e => e.Email)
                     .HasMaxLength(100)
                     .IsUnicode(false)
                     .HasColumnName("email");
-
-                entity.Property(e => e.Id).HasColumnName("id");
 
                 entity.Property(e => e.PhoneNum)
                     .HasMaxLength(10)

@@ -10,17 +10,19 @@ namespace UnitTestProject.Repositories
         {
             _context = context;
         }
-        public User CreateUser(User user)
+        public bool CreateUser(User user)
         {
-            throw new NotImplementedException();
+            _context.Users.Add(user);
+            return _context.SaveChanges() > 0 ? true : false;
         }
 
-        public bool DeleteUser(short id)
+        public bool DeleteUser(int id)
         {
-            throw new NotImplementedException();
+            _context.Users.Remove(_context.Users.FirstOrDefault(u=>u.Id==id));
+            return _context.SaveChanges() > 0 ? true : false;
         }
 
-        public User GetUserByID(short id)
+        public User GetUserByID(int id)
         {
             return _context.Users.FirstOrDefault(u=>u.Id==id);
         }
@@ -32,7 +34,8 @@ namespace UnitTestProject.Repositories
 
         public bool UpdateUser(User user)
         {
-            throw new NotImplementedException();
+            _context.Users.Update(user);
+            return _context.SaveChanges() > 0 ? true : false;
         }
     }
 }

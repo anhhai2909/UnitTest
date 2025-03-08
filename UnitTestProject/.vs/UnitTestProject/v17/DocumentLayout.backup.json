@@ -19,16 +19,12 @@
       "RelativeMoniker": "D:0:0:{9657B820-18BE-4B88-95C2-ED1810E69C4F}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9657B820-18BE-4B88-95C2-ED1810E69C4F}|UnitTestProject\\UnitTestProject.csproj|d:\\unittest\\unittestproject\\unittestproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9657B820-18BE-4B88-95C2-ED1810E69C4F}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9657B820-18BE-4B88-95C2-ED1810E69C4F}|UnitTestProject\\UnitTestProject.csproj|d:\\unittest\\unittestproject\\unittestproject\\models\\unittestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9657B820-18BE-4B88-95C2-ED1810E69C4F}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\models\\unittestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9657B820-18BE-4B88-95C2-ED1810E69C4F}|UnitTestProject\\UnitTestProject.csproj|d:\\unittest\\unittestproject\\unittestproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9657B820-18BE-4B88-95C2-ED1810E69C4F}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9657B820-18BE-4B88-95C2-ED1810E69C4F}|UnitTestProject\\UnitTestProject.csproj|d:\\unittest\\unittestproject\\unittestproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9657B820-18BE-4B88-95C2-ED1810E69C4F}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9657B820-18BE-4B88-95C2-ED1810E69C4F}|UnitTestProject\\UnitTestProject.csproj|d:\\unittest\\unittestproject\\unittestproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -46,13 +42,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\UnitTest\\UnitTestProject\\UnitTestProject\\Models\\User.cs",
               "RelativeDocumentMoniker": "UnitTestProject\\Models\\User.cs",
               "ToolTip": "D:\\UnitTest\\UnitTestProject\\UnitTestProject\\Models\\User.cs",
               "RelativeToolTip": "UnitTestProject\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T19:56:15.802Z",
               "EditorCaption": ""
@@ -65,7 +61,7 @@
               "RelativeDocumentMoniker": "UnitTestProject.UnitTests\\UnitTest1.cs",
               "ToolTip": "D:\\UnitTest\\UnitTestProject\\UnitTestProject.UnitTests\\UnitTest1.cs*",
               "RelativeToolTip": "UnitTestProject.UnitTests\\UnitTest1.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv0YAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T19:48:11.482Z",
               "EditorCaption": ""
@@ -78,22 +74,9 @@
               "RelativeDocumentMoniker": "UnitTestProject\\Controllers\\UsersController.cs",
               "ToolTip": "D:\\UnitTest\\UnitTestProject\\UnitTestProject\\Controllers\\UsersController.cs",
               "RelativeToolTip": "UnitTestProject\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T19:40:40.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\UnitTest\\UnitTestProject\\UnitTestProject\\Program.cs",
-              "RelativeDocumentMoniker": "UnitTestProject\\Program.cs",
-              "ToolTip": "D:\\UnitTest\\UnitTestProject\\UnitTestProject\\Program.cs",
-              "RelativeToolTip": "UnitTestProject\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:37:49.387Z",
               "EditorCaption": ""
             },
             {
@@ -104,7 +87,7 @@
               "RelativeDocumentMoniker": "UnitTestProject\\Repositories\\UserRepository.cs",
               "ToolTip": "D:\\UnitTest\\UnitTestProject\\UnitTestProject\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "UnitTestProject\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T19:34:58.233Z",
               "EditorCaption": ""
@@ -117,27 +100,27 @@
               "RelativeDocumentMoniker": "UnitTestProject\\Interfaces\\IUserRepository.cs",
               "ToolTip": "D:\\UnitTest\\UnitTestProject\\UnitTestProject\\Interfaces\\IUserRepository.cs",
               "RelativeToolTip": "UnitTestProject\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T19:34:38.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "UnitTestContext.cs",
               "DocumentMoniker": "D:\\UnitTest\\UnitTestProject\\UnitTestProject\\Models\\UnitTestContext.cs",
               "RelativeDocumentMoniker": "UnitTestProject\\Models\\UnitTestContext.cs",
               "ToolTip": "D:\\UnitTest\\UnitTestProject\\UnitTestProject\\Models\\UnitTestContext.cs",
               "RelativeToolTip": "UnitTestProject\\Models\\UnitTestContext.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T19:26:27.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\UnitTest\\UnitTestProject\\UnitTestProject\\appsettings.json",
               "RelativeDocumentMoniker": "UnitTestProject\\appsettings.json",
@@ -145,8 +128,7 @@
               "RelativeToolTip": "UnitTestProject\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-07T19:23:06.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T19:23:06.449Z"
             }
           ]
         }

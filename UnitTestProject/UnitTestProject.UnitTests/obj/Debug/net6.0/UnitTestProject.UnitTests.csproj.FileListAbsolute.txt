@@ -153,3 +153,4 @@ D:\UnitTest\UnitTestProject\UnitTestProject.UnitTests\obj\Debug\net6.0\refint\Un
 D:\UnitTest\UnitTestProject\UnitTestProject.UnitTests\obj\Debug\net6.0\UnitTestProject.UnitTests.pdb
 D:\UnitTest\UnitTestProject\UnitTestProject.UnitTests\obj\Debug\net6.0\UnitTestProject.UnitTests.genruntimeconfig.cache
 D:\UnitTest\UnitTestProject\UnitTestProject.UnitTests\obj\Debug\net6.0\ref\UnitTestProject.UnitTests.dll
+D:\UnitTest\UnitTestProject\UnitTestProject.UnitTests\obj\Debug\net6.0\UnitTestProject.UnitTests.sourcelink.json
